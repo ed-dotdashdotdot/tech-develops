@@ -1,0 +1,19 @@
+{
+  "name": "tech-develops",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "lint": "eslint .",
+    "test": "jest",
+    "test:watch": "jest --watch",
+    "check": "clear && jest && npm run lint"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "eslint": "^5.0.1",
+    "jest": "^23.2.0"
+  }
+}

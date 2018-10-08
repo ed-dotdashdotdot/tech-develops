@@ -1,0 +1,13 @@
+div.bonjour {
+  background-color: #c96;
+  border-color: #69c;
+  border-style: solid;
+  border-width: 10px;
+  opacity: 0.85;
+  padding: 3rem; }
+  div.bonjour.active {
+    background-color: rgba(204, 153, 102, 0.5);
+    border-color: #c96;
+    opacity: 0.5;
+    text-indent: 200px; }
+
